@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋, I'm Ömer
 
-<!--
-**omersenturkdev/omersenturkdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Blogs & Posts  
+- [Using BroadcastReceiver in Android](https://medium.com/@omersenturk.dev/using-broadcastreceiver-in-android-7506cf3087c6)  
+- [Kotlin Higher Order Function and Lambdas](https://medium.com/@omersenturk.dev/kotlin-higher-order-function-and-lambdas-9dc21d0eec91)
 
-Here are some ideas to get you started:
+## Languages and Tools  
+![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=flat&logo=kotlin&logoColor=white)  
+![Android](https://img.shields.io/badge/-Android-3ddc84?style=flat&logo=android&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me  
+- [LinkedIn](https://www.linkedin.com/in/%C3%B6mer-%C5%9Fent%C3%BCrk-215430267/)  
+- [X (Twitter)](https://x.com/omersenturkdev)
