@@ -28,8 +28,3 @@ Android Software Developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6mer-%C5%9Fent%C3%BCrk-215430267/)  
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/omersenturkdev)  
 
----
-
-## 📊 GitHub Stats  
-![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omersenturk&show_icons=true&theme=tokyonight)  
-
