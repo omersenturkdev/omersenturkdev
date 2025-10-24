@@ -9,7 +9,6 @@ Android Software Developer
 - [Using BroadcastReceiver in Android](https://medium.com/@omersenturk.dev/using-broadcastreceiver-in-android-7506cf3087c6)  
 - [Kotlin Higher Order Function and Lambdas](https://medium.com/@omersenturk.dev/kotlin-higher-order-function-and-lambdas-9dc21d0eec91)  
 
----
 
 ## 🛠 Languages and Tools  
 
@@ -22,9 +21,13 @@ Android Software Developer
   </a> 
 </p>
 
----
 
 ## 🤝 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6mer-%C5%9Fent%C3%BCrk-215430267/)  
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/omersenturkdev)  
+<a href="https://www.linkedin.com/in/%C3%B6mer-%C5%9Fent%C3%BCrk-215430267/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omer-senturk" height="30" width="40" /> </a>
+<a href="https://medium.com/@omersenturk.dev" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" 
+       alt="@omersenturk.dev" height="30" width="40" />
+</a>
+
 
