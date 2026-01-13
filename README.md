@@ -5,7 +5,7 @@ Android Software Developer
 ---
 
 ## 📘 Blogs & Posts  
-- [Understanding Launch Modes in Android: How Activities and BackStack Work](https://medium.com/@omersenturk.dev/understanding-launch-modes-in-android-how-activities-and-backstack-work-f5a313c1e603)  
+-[Android Clean Architecture & Modern Architecture](https://medium.com/@omersenturk.dev/android-clean-architecture-modern-architecture-0c871404510f)  
 - [Using BroadcastReceiver in Android](https://medium.com/@omersenturk.dev/using-broadcastreceiver-in-android-7506cf3087c6)  
 - [Kotlin Higher Order Function and Lambdas](https://medium.com/@omersenturk.dev/kotlin-higher-order-function-and-lambdas-9dc21d0eec91)  
 
